@@ -39,18 +39,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".Activities.ProductDetailActivity"
-            android:exported="false" />
-        <activity
-            android:name=".Activities.LandingPage.LandingPage"
-            android:exported="false" />
-        <activity
-            android:name=".Activities.CustomerLogin"
-            android:exported="false" />
-        <activity
-            android:name=".Activities.CustomerSignUp"
-            android:exported="false" />
     </application>
 
 </manifest>
